@@ -38,6 +38,7 @@ body {
 @media(max-width: 800px) {
     .container {
         margin-top: 10vh;
+        margin-bottom: 10vh;
         margin-left: 10vw;
         margin-right: 10vw;
         height: 90vh;
